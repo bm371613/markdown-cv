@@ -8,7 +8,7 @@ Software Engineer
 <div id="webaddress">
 Szczecin, Poland
 | <a href="mailto:b.marcinkowski@leomail.pl">b.marcinkowski@leomail.pl</a>
-| <a href="https://github.com/bm371613">@GitHub</a>
+| <a href="https://github.com/bm371613">https://github.com/bm371613</a>
 </div>
 
 ### Interests
@@ -55,7 +55,8 @@ of a legislation searching system.
 ## Projects
 
 `2020-now`
-__[gest](https://github.com/bm371613/gest)__
+__gest__, [https://github.com/bm371613/gest](https://github.com/bm371613/gest)
+
 
 Gest allows using hand gestures as an input device.
 I use it on daily basis alongside Talon
