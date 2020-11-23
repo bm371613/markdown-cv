@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Bartosz Marcinkowski's CV
+title: Bartosz Marcinkowski
 ---
 # Bartosz Marcinkowski
 Software Engineer
