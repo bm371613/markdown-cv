@@ -6,7 +6,8 @@ title: Bartosz Marcinkowski's CV
 Software Engineer
 
 <div id="webaddress">
-<a href="mailto:b.marcinkowski@leomail.pl">b.marcinkowski@leomail.pl</a>
+Szczecin, Poland
+| <a href="mailto:b.marcinkowski@leomail.pl">b.marcinkowski@leomail.pl</a>
 | <a href="https://github.com/bm371613">@GitHub</a>
 </div>
 
