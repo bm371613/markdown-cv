@@ -29,7 +29,7 @@ Linux, Docker, Kubernetes
 
 ## Work experience
 
-`2016-current`
+`2016-now`
 __Senior Software Engineer, [dimensions.ai](https://dimensions.ai)__, remotely from Poland
 
 I work with natural language processing experts
@@ -54,7 +54,7 @@ of a legislation searching system.
 
 ## Projects
 
-`2020-current`
+`2020-now`
 __[gest](https://github.com/bm371613/gest)__
 
 Gest allows using hand gestures as an input device.
