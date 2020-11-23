@@ -3,26 +3,29 @@ layout: cv
 title: Bartosz Marcinkowski's CV
 ---
 # Bartosz Marcinkowski
-Physicist, Mathematician, Cambridge professor.
+Software Engineer
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="b.marcinkowski@leomail.pl">b.marcinkowski@leomail.pl</a>
+| <a href="https://github.com/bm371613">My GitHub profile</a>
 </div>
-
 
 ## Currently
 
-Standing on the shoulders of giants
+- Senior Software Engineer, Text Mining Team @ [dimensions.ai](dimensions.ai)
+- after hours, working on [gesture recognition as an alternative input device](https://github.com/bm371613/gest)
 
-### Specialized in
+### Domains
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+algorithms, data processing, machine learning
 
+### Technologies
 
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Python
+Numpy, Pandas, scikit-kearn, PyTorch
+flask, dash, dask, 0mq, luigi
+PostgreSQL, Snowflake, Hadoop
+Linux, Docker, Kubernetes, AWS
 
 
 ## Education
@@ -41,36 +44,6 @@ __Trinity College, Cambridge__
 - Fellow
 
 
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
 ## Occupation
 
 `1600`
@@ -86,6 +59,6 @@ __Lucasian professor of Mathematics__, Cambridge University
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: November 2020 -->
 
 
