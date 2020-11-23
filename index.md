@@ -1,8 +1,8 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Bartosz Marcinkowski's CV
 ---
-# Isaac Newton
+# Bartosz Marcinkowski
 Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
