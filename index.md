@@ -55,7 +55,7 @@ of a legislation searching system.
 
 __[gest](https://github.com/bm371613/gest)__
 
-`gest` allows using hand gestures as an input device.
+Gest allows using hand gestures as an input device.
 I use it on daily basis alongside Talon
 (speech recognition, eye tracking) as a wrist-friendly
 replacement for a mouse and a keyboard.
@@ -63,10 +63,38 @@ replacement for a mouse and a keyboard.
 ## Education
 
 `2014-2017`
-__MSc in Computer Science__ Warsaw University
+__Master's degree in Computer Science__, Warsaw University
+
+I picked my courses to form two parallel paths:
+- algorithms, mathematics and machine learning
+- system programming and data processing
+
+My thesis was about implementing
+artificial intelligence for a board game.
 
 `2011-2014`
-__BSc in Computer Science__ Warsaw University
+__Bachelor's degree in Computer Science__, Warsaw University
+
+I was initially focused on algorithms and mathematics,
+and developed a parallel interest in system programming
+over time.
+
+Most of this programme I received a scholarship
+based on my grades.
+
+## Honours
+`2011`
+__Finalist__, Polish Olympiad in Informatics
+
+`2011`
+__Finalist__, Polish Olympiad in Mathematics
+
+`2010`
+__Finalist__, Polish Olympiad in Mathematics
+
+## Certifications
+
+__Certificate in Advanced English__, Cambridge Assessment English
 
 
 <!-- ### Footer
