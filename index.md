@@ -6,7 +6,7 @@ title: Bartosz Marcinkowski's CV
 Software Engineer
 
 <div id="webaddress">
-<a href="b.marcinkowski@leomail.pl">b.marcinkowski@leomail.pl</a>
+<a href="mailto:b.marcinkowski@leomail.pl">b.marcinkowski@leomail.pl</a>
 | <a href="https://github.com/bm371613">@GitHub</a>
 </div>
 
@@ -53,6 +53,7 @@ of a legislation searching system.
 
 ## Projects
 
+`2020-current`
 __[gest](https://github.com/bm371613/gest)__
 
 Gest allows using hand gestures as an input device.
@@ -66,8 +67,8 @@ replacement for a mouse and a keyboard.
 __Master's degree in Computer Science__, Warsaw University
 
 I picked my courses to form two parallel paths:
-- algorithms, mathematics and machine learning
-- system programming and data processing
+algorithms/mathematics/machine learning and
+system programming/data processing.
 
 My thesis was about implementing
 artificial intelligence for a board game.
@@ -94,6 +95,7 @@ __Finalist__, Polish Olympiad in Mathematics
 
 ## Certifications
 
+`2010`
 __Certificate in Advanced English__, Cambridge Assessment English
 
 
