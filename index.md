@@ -10,50 +10,49 @@ Software Engineer
 | <a href="https://github.com/bm371613">My GitHub profile</a>
 </div>
 
-## Currently
-
-- Senior Software Engineer, Text Mining Team @ [dimensions.ai](dimensions.ai)
-- after hours, working on [gesture recognition as an alternative input device](https://github.com/bm371613/gest)
-
-### Domains
+### Interests
 
 algorithms, data processing, machine learning
 
 ### Technologies
 
-Python
-Numpy, Pandas, scikit-kearn, PyTorch
-flask, dash, dask, 0mq, luigi
-PostgreSQL, Snowflake, Hadoop
-Linux, Docker, Kubernetes, AWS
+Python, Java, Rust
 
+Numpy, Pandas, scikit-learn, PyTorch
+
+0mq, luigi, dask
+
+PostgreSQL, Snowflake, Hadoop
+
+Linux, Docker, Kubernetes
+
+## Work experience
+
+`2016-current`
+__Senior Software Engineer, Text Mining Team @ [dimensions.ai](https://dimensions.ai)__, remotely from Poland
+
+I am working with natural language processing experts
+on text classification, term extraction,
+named entity recognition and active learning.
+
+My responsibilities span from data processing,
+through tooling development to data science.
+
+`2014-2016`
+__Software Engineer, RTBHouse__, Warsaw, Poland
+
+I was a part of a team responsible for the
+engineering core of a Real-Time Bidding platform.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2014-2017`
+__MSc in Computer Science__ Warsaw University
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2011-2014`
+__BSc in Computer Science__ Warsaw University
 
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+## Projects
 
 
 
