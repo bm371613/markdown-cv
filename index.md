@@ -15,18 +15,6 @@ Szczecin, Poland
 
 algorithms, data processing, machine learning
 
-### Technologies
-
-Python, Java, Rust
-
-Numpy, Pandas, scikit-learn, PyTorch
-
-0mq, luigi, dask
-
-PostgreSQL, Snowflake
-
-Linux, Docker, Kubernetes
-
 ## Work experience
 
 `2016-now`
