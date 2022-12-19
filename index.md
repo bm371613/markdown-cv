@@ -16,7 +16,7 @@ Szczecin, Poland
 
 data science, machine learning
 
-## Work experience## Work experience
+## Work experience
 
 `2021-now`
 __Machine Learning Researcher, RTB House__, remotely
