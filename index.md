@@ -3,29 +3,38 @@ layout: cv
 title: Bartosz Marcinkowski
 ---
 # Bartosz Marcinkowski
-Software Engineer
+Machine Learning Researcher
 
 <div id="webaddress">
 Szczecin, Poland
 | <a href="mailto:b.marcinkowski@leomail.pl">b.marcinkowski@leomail.pl</a>
 | <a href="https://github.com/bm371613">https://github.com/bm371613</a>
+| <a href="https://www.linkedin.com/in/bm371613">https://www.linkedin.com/in/bm371613</a>
 </div>
 
 ### Interests
 
-algorithms, data processing, machine learning
+data science, machine learning
 
-## Work experience
+## Work experience## Work experience
 
-`2016-now`
-__Senior Software Engineer, [dimensions.ai](https://dimensions.ai)__, remotely from Poland
+`2021-now`
+__Machine Learning Researcher, RTB House__, remotely
 
-I work with natural language processing experts
-on text classification, term extraction,
+I lead ML development of a new product and coordinate related cross-team efforts.
+I also manage and mentor junior ML researchers.
+
+`2021`
+__Machine Learning Engineer / Researcher, RTB House__, remotely
+
+I worked on a mix of engineering tasks (developing an ML pipeline)
+and research tasks (developing models predicting internet users' behavior, future transaction value and providing recommendations).
+
+`2016-2020`
+__Senior Software Engineer, [dimensions.ai](https://dimensions.ai)__, remotely
+
+I worked on text classification, term extraction,
 named entity recognition and active learning.
-
-My responsibilities span from data processing,
-through tooling development to data science.
 
 `2014-2016`
 __Software Engineer, RTBHouse__, Warsaw, Poland
@@ -42,12 +51,12 @@ of a legislation searching system.
 
 ## Projects
 
-`2020-now`
+`2020`
 __gest__, [https://github.com/bm371613/gest](https://github.com/bm371613/gest)
 
 
 Gest allows using hand gestures as an input device.
-I use it on daily basis alongside Talon
+I used it on daily basis alongside Talon
 (speech recognition, eye tracking) as a wrist-friendly
 replacement for a mouse and a keyboard.
 
@@ -60,7 +69,7 @@ I picked my courses to form two parallel paths:
 algorithms/mathematics/machine learning and
 system programming/data processing.
 
-My thesis was about implementing
+My thesis was on implementing
 artificial intelligence for a board game.
 
 `2011-2014`
