@@ -22,10 +22,6 @@ towards research, management and business-oriented work.
 Today I enjoy a mix of applied ML research, using data science
 to achieve business goals, managing projects and mentoring.
 
-*Stack*
-
-Python | Pandas | PyTorch | NumPy | SciPy | scikit-learn | plotly | Linux
-
 ## Work experience
 
 `2021-now`
