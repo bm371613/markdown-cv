@@ -8,13 +8,19 @@ Machine Learning Researcher
 <div id="webaddress">
 Szczecin, Poland
 | <a href="mailto:b.marcinkowski@leomail.pl">b.marcinkowski@leomail.pl</a>
-| <a href="https://github.com/bm371613">https://github.com/bm371613</a>
-| <a href="https://www.linkedin.com/in/bm371613">https://www.linkedin.com/in/bm371613</a>
+| <a href="https://github.com/bm371613">github.com/bm371613</a>
+| <a href="https://www.linkedin.com/in/bm371613">linkedin.com/in/bm371613</a>
 </div>
 
-### Interests
+### Bio
 
-data science, machine learning
+Early in my career I enjoyed developing software for data processing.
+Over time, I developed interest in machine learning and data science.
+In parallel, progressing wrists issues pushed me away from an implementation-heavy path
+towards research, management and business-oriented work.
+
+Today I enjoy a mix of applied ML research, using data science
+to achieve business goals, managing projects and mentoring.
 
 ## Work experience
 
