@@ -12,7 +12,7 @@ Szczecin, Poland
 | <a href="https://www.linkedin.com/in/bm371613">linkedin.com/in/bm371613</a>
 </div>
 
-### 
+### Bio
 
 Early in my career I enjoyed developing software for data processing.
 Over time, I developed interest in machine learning and data science.
@@ -22,7 +22,7 @@ towards research, management and business-oriented work.
 Today I enjoy a mix of applied ML research, using data science
 to achieve business goals, managing projects and mentoring.
 
-### Stack
+*Stack*
 
 Python | Pandas | PyTorch | NumPy | SciPy | scikit-learn | plotly | Linux
 
