@@ -24,11 +24,18 @@ to achieve business goals, managing projects and mentoring.
 
 ## Work experience
 
-`2021-now`
+`2023-now`
+__Senior Data Scientist / Team Leader, MIM Solutions__, remotely
+
+I lead projects in
+- medicine (remote patient monitoring and treatment)
+- cybersecurity (ransomware attack detection)
+
+`2021-2023`
 __Machine Learning Researcher, RTB House__, remotely
 
-I lead ML development of a new product and coordinate related cross-team efforts.
-I also manage and mentor junior ML researchers.
+I lead ML development of a new product and coordinated related cross-team efforts.
+I also managed and mentored junior ML researchers.
 
 `2021`
 __Machine Learning Engineer / Researcher, RTB House__, remotely
