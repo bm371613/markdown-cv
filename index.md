@@ -73,6 +73,22 @@ I used it on daily basis alongside Talon
 (speech recognition, eye tracking) as a wrist-friendly
 replacement for a mouse and a keyboard.
 
+
+`2023`
+__MIRAD__, [https://github.com/Sagenso/MIRAD/](https://github.com/Sagenso/MIRAD/)
+
+MIRAD is a machine learning project done for a cyber-security company Sagenso
+that wanted to detect ransomware attacks. The company collected system logs
+during simulated attack scenarios and needed an intepretable model that
+would detect attacks, but also provide insights that could lead to improvements
+of the simulations.
+
+`2024`
+__flow matching notebook__, [https://bm371613.github.io/conditional-flow-matching/](https://bm371613.github.io/conditional-flow-matching/)
+
+I created this notebook while working at MIM Solutions on a project where we developed diffusion and flow matching based models
+for self-supervised representation learning of ECG signals. I wanted to convey the basic intuition with visualizations.
+
 ## Education
 
 `2014-2017`
