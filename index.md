@@ -3,7 +3,7 @@ layout: cv
 title: Bartosz Marcinkowski
 ---
 # Bartosz Marcinkowski
-Machine Learning Researcher
+Data Science / Machine Learning / Leader
 
 <div id="webaddress">
 Szczecin, Poland
@@ -68,6 +68,7 @@ of a legislation searching system.
 __Towards Semantic Embeddings of Cardiological Signals with Diffusion Autoencoders__, [DOI: 10.36227/techrxiv.173152781.12841872/v1](https://doi.org/10.36227/techrxiv.173152781.12841872/v1)
 
 I developed a diffusion autoencoder to support the development of wearable medical devices for remote monitoring and treatment of cardiovascular diseases.
+The work was a collaboration between MIM Solutions and CSW Therapeutics.
 
 `2024`
 __flow matching notebook__, [https://bm371613.github.io/conditional-flow-matching/](https://bm371613.github.io/conditional-flow-matching/)
