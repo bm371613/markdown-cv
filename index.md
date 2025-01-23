@@ -65,7 +65,7 @@ of a legislation searching system.
 ## Projects
 
 `2024`
-__Towards Semantic Embeddings of Cardiological Signals with Diffusion Autoencoders__, [https://doi.org/10.36227/techrxiv.173152781.12841872/v1]
+__Towards Semantic Embeddings of Cardiological Signals with Diffusion Autoencoders__, [DOI: 10.36227/techrxiv.173152781.12841872/v1](https://doi.org/10.36227/techrxiv.173152781.12841872/v1)
 
 I developed a diffusion autoencoder to support the development of wearable medical devices for remote monitoring and treatment of cardiovascular diseases.
 
