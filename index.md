@@ -64,14 +64,16 @@ of a legislation searching system.
 
 ## Projects
 
-`2020`
-__gest__, [https://github.com/bm371613/gest](https://github.com/bm371613/gest)
+`2024`
+__Towards Semantic Embeddings of Cardiological Signals with Diffusion Autoencoders__, [https://doi.org/10.36227/techrxiv.173152781.12841872/v1]
 
+I developed a diffusion autoencoder to support the development of wearable medical devices for remote monitoring and treatment of cardiovascular diseases.
 
-Gest allows using hand gestures as an input device.
-I used it on daily basis alongside Talon
-(speech recognition, eye tracking) as a wrist-friendly
-replacement for a mouse and a keyboard.
+`2024`
+__flow matching notebook__, [https://bm371613.github.io/conditional-flow-matching/](https://bm371613.github.io/conditional-flow-matching/)
+
+I created this notebook while working at MIM Solutions on a project where we developed diffusion and flow matching based models
+for self-supervised representation learning of ECG signals. I wanted to convey the basic intuition with visualizations.
 
 
 `2023`
@@ -83,11 +85,15 @@ during simulated attack scenarios and needed an intepretable model that
 would detect attacks, but also provide insights that could lead to improvements
 of the simulations.
 
-`2024`
-__flow matching notebook__, [https://bm371613.github.io/conditional-flow-matching/](https://bm371613.github.io/conditional-flow-matching/)
 
-I created this notebook while working at MIM Solutions on a project where we developed diffusion and flow matching based models
-for self-supervised representation learning of ECG signals. I wanted to convey the basic intuition with visualizations.
+`2020`
+__gest__, [https://github.com/bm371613/gest](https://github.com/bm371613/gest)
+
+
+Gest allows using hand gestures as an input device.
+I used it on daily basis alongside Talon
+(speech recognition, eye tracking) as a wrist-friendly
+replacement for a mouse and a keyboard.
 
 ## Education
 
@@ -125,6 +131,8 @@ __Finalist__, Polish Olympiad in Mathematics
 
 `2010`
 __Certificate in Advanced English__, Cambridge Assessment English
+
+Grade A certifies C2 fluency.
 
 
 <!-- ### Footer
