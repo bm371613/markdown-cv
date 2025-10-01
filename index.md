@@ -27,6 +27,7 @@ to achieve business goals, managing projects and mentoring.
 __Senior Data Scientist / Team Leader, MIM Solutions__, remotely
 
 I lead projects in
+- bioinformatics (preimplantational genetic testing)
 - medicine (remote patient monitoring and treatment)
 - cybersecurity (ransomware attack detection)
 
