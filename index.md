@@ -15,7 +15,7 @@ Szczecin, Poland
 
 Early in my career I enjoyed developing software for data processing.
 Over time, I developed interest in machine learning and data science.
-In parallel, progressing wrists issues pushed me away from an implementation-heavy path
+In parallel, progressing health issues pushed me away from an implementation-heavy path
 towards research, management and business-oriented work.
 
 Today I enjoy a mix of applied ML research, using data science
