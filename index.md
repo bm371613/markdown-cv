@@ -99,20 +99,20 @@ replacement for a mouse and a keyboard.
 
 ## Open Source contributions
 
-`2017`
-__dask/distributed #1016__, [https://github.com/dask/distributed/pull/1016](https://github.com/dask/distributed/pull/1016)
+`2026`
+__Lightning-AI/pytorch-lightning #21726__, [https://github.com/Lightning-AI/pytorch-lightning/pull/21726](https://github.com/Lightning-AI/pytorch-lightning/pull/21726)
 
-I implemented a mechanism for custom initialization of distributed computation worker processes.
+I fixed a bug which caused CUDA context initialization (and resource consumption) on GPUs unrelated to configured computation.
 
 `2018`
 __piskvorky/gensim #2239__, [https://github.com/piskvorky/gensim/pull/2239](https://github.com/piskvorky/gensim/pull/2239)
 
 I improved a natural language processing library to support larger corpora.
 
-`2026`
-__Lightning-AI/pytorch-lightning #21726__, [https://github.com/Lightning-AI/pytorch-lightning/pull/21726](https://github.com/Lightning-AI/pytorch-lightning/pull/21726)
+`2017`
+__dask/distributed #1016__, [https://github.com/dask/distributed/pull/1016](https://github.com/dask/distributed/pull/1016)
 
-I fixed a bug which caused CUDA context initialization (and resource consumption) on GPUs unrelated to configured computation.
+I implemented a mechanism for custom initialization of distributed computation worker processes.
 
 ## Education
 
